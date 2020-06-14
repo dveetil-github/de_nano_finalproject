@@ -1,0 +1,14 @@
+data_1/
+sas_data/
+*.ipynb
+*.log
+metastore_db
+sparkdemo.py
+venv
+*.py[co]
+.idea
+.vscode
+
+coverage.xml
+.coverage
+htmlcov
